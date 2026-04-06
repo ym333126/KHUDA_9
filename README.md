@@ -1,3 +1,3 @@
-# KHUDA_9
+# KHUDA_9_ ML Session
 
-01/22
+This is a collection of KHUDA vacation ML session weekly activity codes.
